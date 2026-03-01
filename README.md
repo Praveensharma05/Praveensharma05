@@ -1,82 +1,106 @@
-# Hi there 👋 I'm Praveen Sharma
+<!-- PRAVEEN KUMAR SHARMA -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=cc57ff&size=30&center=true&vCenter=true&width=600&height=100&lines=Hi+there!+I'm+Praveen+Sharma;👋+Welcome+to+my+Coding+Playground!" alt="Praveen Sharma" />
+
+# hey, i'm praveen. 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=I+build+things+with+Python+%F0%9F%90%8D;I+make+computers+see+with+their+hands+%E2%9C%8B;AI+%2B+Web+%2B+a+little+bit+of+chaos+%F0%9F%94%A5;always+shipping%2C+sometimes+sleeping)](https://git.io/typing-svg)
+
+<br/>
+
+*CS undergrad from Pilani · builder by habit · hackathon survivor*
+
 </div>
+
+---
+
+```
+                 not all heroes wear capes.
+                 some just write Flask APIs at 2am.
+                                              — me, probably
+```
+
+---
+
+## 🛠️ what i work with
+
+```python
+stack = {
+    "languages" : ["Python 🐍", "C++", "SQL"],
+    "frontend"  : ["React.js", "HTML/CSS/JS"],
+    "backend"   : ["Flask"],
+    "data"      : ["Pandas", "NumPy", "Matplotlib", "OpenCV", "MediaPipe"],
+    "cloud"     : ["Google Cloud Platform"],
+    "vibe"      : "ship it, then fix it"
+}
+```
+
+---
+
+## 🔨 things i've built
+
+### 🎵 [IntelliMix](https://github.com/Praveensharma05) — AI Audio Editor
+> You describe the vibe. The AI does the mixing. Magic? No, just Gemini + Flask.
+
+`React` `Flask` `Python` `Google Gemini` `YouTube API`
+
+---
+
+### ✋ Virtual Mouse — No Hands Required (well, actually yes hands)
+> Ditched the mouse. Pointed at the screen. It worked. 95% accuracy.
+
+`Python` `OpenCV` `MediaPipe` `30 FPS on a potato`
+
+---
+
+### 🏥 TrustMedix — Healthcare That Doesn't Suck
+> Built for accessibility. Because inclusive design isn't optional.
+
+`HTML` `CSS` `JavaScript` `Accessibility-first`
+
+---
+
+## ⚡ recent moves
+
+```
+🏆  Won  →  Kalesh Hackathon — built an AI exam proctoring system
+🥈  17th →  UEM Jaipur Hackathon (out of 250 teams, Rajasthan's biggest)
+🌐  Live →  Built & launched the official BTTI website (500+ monthly users)
+📉  35%  →  Reduced page load latency for EchoHype Media clients
+```
+
+---
+
+## 📊 the numbers (since you asked)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=cc57ff&height=180&section=header&text=Praveen%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Praveen Sharma" width="100%"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praveensharma05&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide=stars)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveensharma05&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-## 📌 About Me
+## 📡 let's connect
 
-- 🎓 Currently pursuing my B.Tech in CSE (Data Science) – Third Year
+<div align="center">
 
-- 📚 Learning Machine Learning and exploring Artificial Intelligence
+[![LinkedIn](https://img.shields.io/badge/-praveen--sharma09-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-sharma09)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/-D4VUdpr0up-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/D4VUdpr0up)
+&nbsp;
+[![Mail](https://img.shields.io/badge/-praveen144204@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:praveen144204@gmail.com)
 
-- 💻 Skilled in Python, JavaScript, HTML/CSS, SQL, and C++
-
-- ⚡ Interested in web development, data visualization, and problem solving
-
-- 🚀 Always curious about emerging technologies and building creative projects
-
-- 🌱 On a journey to combine data science and software development for real-world impact
- 
-- 📫 Reach me at **praveen144204@gmail.com**  
+</div>
 
 ---
-## Skills
-## 💻 Core Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=java" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="50" style="margin:10px"/>
-</p>
 
-## ⚙ Frameworks  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flask" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=django" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="50" style="margin:10px"/>
-</p>
+<div align="center">
 
-## 📚 Libraries  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="50" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="50" style="margin:10px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" style="margin:10px"/>
-  <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-wide-lightbg.svg" height="50" style="margin:10px"/>
-</p>
+*open to collabs · internships · building weird things together*
 
-## 🛠 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px"/>
-  <img src="https://skillicons.dev/icons?i=oracle" height="50" style="margin:10px"/>
-</p>
+![](https://visitor-badge.laobi.icu/badge?page_id=Praveensharma05.Praveensharma05)
 
-
----
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/praveen-sharma09/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  
-  
-  <a href="mailto:praveen144204@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-  </a>
-</p>
-
-
-<!-- FOOTER -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+</div>
