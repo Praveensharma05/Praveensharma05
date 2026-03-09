@@ -35,10 +35,7 @@
 ---
 
 ## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Praveensharma05)
 [![LinkedIn](https://img.shields.io/badge/-Praveen_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-sharma09)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/PraveenSharma)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praveen144204@gmail.com)
 
 > **Philosophy:** Build with curiosity, compete with discipline, and let the work speak for itself.
