@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/Praveensharma05/Praveensharma05/main/header.png)
+![Header](https://media.licdn.com/dms/image/v2/D4D16AQE-bUR1lVBVAw/profile-displaybackgroundimage-shrink_350_1400/B4DZVXB3k3GkAc-/0/1740921873394?e=1774483200&v=beta&t=fyvsTYXuVRew61OZAWEo7lU8Bta2AIf-WXEg6MOkc8Y)
 
 # Hi, I'm Praveen Kumar Sharma 👋
 
