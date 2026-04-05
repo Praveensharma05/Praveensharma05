@@ -1,4 +1,4 @@
-![Header](https://pin.it/7kHFfjA9t)
+![Header](https://media.licdn.com/dms/image/v2/D4D16AQE-bUR1lVBVAw/profile-displaybackgroundimage-shrink_350_1400/B4DZVXB3k3GkAc-/0/1740921873394?e=1776902400&v=beta&t=OYeOl-LquWR4eF447UvAK08G2hvNoGstVSptvLPWH20)
 
 # Hi, I'm Praveen Kumar Sharma 👋
 
