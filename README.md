@@ -27,13 +27,6 @@
 - 🏥 **[TrustMedix – Accessible Medical Platform](https://github.com/Praveensharma05)** — Inclusive healthcare portal with high-contrast UI for hearing-impaired users. Reduced consultation booking navigation steps by 40%.
 
 ---
-
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Praveensharma05)
-
----
-
 ## 🤝 Connect
 [![LinkedIn](https://img.shields.io/badge/-Praveen_Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-sharma09)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:praveen144204@gmail.com)
