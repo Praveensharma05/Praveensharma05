@@ -1,4 +1,4 @@
-![Header](https://media.licdn.com/dms/image/v2/D4D16AQE-bUR1lVBVAw/profile-displaybackgroundimage-shrink_350_1400/B4DZVXB3k3GkAc-/0/1740921873394?e=1776902400&v=beta&t=OYeOl-LquWR4eF447UvAK08G2hvNoGstVSptvLPWH20)
+![Header](https://in.pinterest.com/pin/691021136629627476/)
 
 # Hi, I'm Praveen Kumar Sharma 👋
 
@@ -21,7 +21,6 @@
 
 ## 🚀 Featured Projects
 
-- 🔐 **[Z Auth – Pramaan](https://github.com/Praveensharma05)** — Zero-Knowledge Biometric Authentication Protocol using WebAuthn passkeys, Groth16 ZK proofs (Circom + snarkjs), and Base blockchain anchoring. Raw biometric data never leaves the user's device.
 - 🎵 **[IntelliMix – AI Audio Editor](https://github.com/Praveensharma05)** — Full-stack AI-powered audio mixing platform built with React & Flask. Reduced rendering time by 20% with optimized algorithms and integrated YouTube API for audio extraction.
 - 🖱️ **[Virtual Mouse via Computer Vision](https://github.com/Praveensharma05)** — Touchless HCI using hand gesture recognition with MediaPipe & OpenCV. Achieves 95% detection accuracy at 30 FPS on standard hardware.
 - 🏥 **[TrustMedix – Accessible Medical Platform](https://github.com/Praveensharma05)** — Inclusive healthcare portal with high-contrast UI for hearing-impaired users. Reduced consultation booking navigation steps by 40%.
